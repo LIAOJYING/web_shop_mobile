@@ -1,0 +1,10 @@
+#sidebar .panel-heading {
+  cursor: pointer;
+}
+ul.pagination {
+  margin-top: 0;
+}
+.product-list h4 {
+	height: 1em;
+	overflow: hidden;
+}
